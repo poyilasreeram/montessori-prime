@@ -1,0 +1,7 @@
+@import "../testimonials/testimonials.component.scss";
+
+.d-none {
+    &.d-block {
+        display: block !important;
+    }
+}
